@@ -10,7 +10,7 @@ HDInsight now supports creating clusters with no public IP and private link acce
 HDInsight now uses Azure virtual machines to provision the cluster. Starting from this release, the service will gradually migrate to [Azure virtual machine scale sets](https://docs.microsoft.com/azure/virtual-machine-scale-sets/overview). The entire process may take months. After your regions and subscriptions are migrated, newly created HDInsight clusters will run on virtual machine scale sets without customer actions. No breaking change is expected.
 
 ## Deprecation
-#### Deprecation of HDInsight 3.6 ML Services cluster
+### Deprecation of HDInsight 3.6 ML Services cluster
 HDInsight 3.6 ML Services cluster type will be end of support by Dec 31 2020. Customers won't create new 3.6 ML Services clusters after that. Existing clusters will run as is without the support from Microsoft. Check the support expiration for HDInsight versions and cluster types [here](https://docs.microsoft.com/azure/hdinsight/hdinsight-component-versioning#available-versions).
 
 ## Behavior changes
