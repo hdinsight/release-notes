@@ -1,6 +1,6 @@
 # Azure HDInsight Releases
 
-Azure HDInsight is a managed, full-spectrum, open-source analytics service in the cloud for enterprises. You can use open-source frameworks such as Hadoop, Apache Spark, Apache Hive, LLAP, Apache Kafka, Apache Storm, R, and more. This repository is offered for tracking HDInsight releases. 
+Azure HDInsight is a managed, full-spectrum, open-source analytics service in the cloud for enterprises. You can use open-source frameworks such as Hadoop, Apache Spark, Apache Hive, LLAP, Apache Kafka, and more. This repository is offered for tracking HDInsight releases. 
 
 Useful links:
 - [HDInsight release notes](https://github.com/hdinsight/release-notes/releases)
